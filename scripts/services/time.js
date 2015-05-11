@@ -1,5 +1,3 @@
-/* scripts/services/time.js */
-    
 (function() {
     
     'use strict';
